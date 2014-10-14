@@ -12,5 +12,5 @@ Objects of this repository comes from real projects:
 * `heart/` is an [heart gears](http://www.thingiverse.com/thing:249341)
 * `um2-extruder/` is an [Ultimaker2 extruder upgrade](https://www.youmagine.com/designs/extruder-um2-version-2)
 * `robotic_arm_6dof/` a [6 DOF robotic arm](http://www.thingiverse.com/thing:30163)
-* `shower_curtain_hooks/` 12 [hooks for shower](www.thingiverse.com/thing:238167)
-
+* `shower_curtain_hooks/` 12 [hooks for shower](http://www.thingiverse.com/thing:238167)
+* `darwin_mini/` parts of the [DARWIN Mini humanoid robot](http://www.thingiverse.com/thing:323906)

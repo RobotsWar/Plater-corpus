@@ -17,8 +17,8 @@ while ($file = readdir($dir)) {
             $t = microtime(true);
             `rm $file/plate_*.stl 2> /dev/null`;
             `plater -t 4 -W $w -H $h -s 1.75 $file/plater.conf 2> /dev/null`;
-            $plates = count(explode("\n",`ls $file/plate_*.stl`))-1;
-            $e = microtime(true)-$t;
+            $plates = count(explode("\n",`ls $file/plate_*.stl 2> /dev/null`))-1;
+            $e = round(microtime(true)-$t,2);
             echo "~> Width: $w, Height: $h, Time: $e, Plates: $plates\n";
         }
     }

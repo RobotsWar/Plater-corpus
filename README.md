@@ -17,3 +17,26 @@ Objects of this repository comes from real projects:
 * `spider_rover/` a [Spider rover robot](https://www.youmagine.com/designs/spider-rover) (without deck big parts)
 * `spidey/` comes from the [Spidey robotics platform](https://github.com/RobotsWar/Spidey)
 * `um2-extruder/` is an [Ultimaker2 extruder upgrade](https://www.youmagine.com/designs/extruder-um2-version-2)
+
+## Benchmark conditions
+
+### Plates size
+
+Here are build plates size that we use in the benchmark:
+
+* 28 x 15 cm (size of the Makerbot Replicator 2)
+* 21 x 21 cm (size of the Ultimaker2)
+* 20 x 15 cm 
+* 15 x 15 cm
+
+### Threading
+
+You can use several threads for multi-core computers. Don't forget to include the number of thread
+in the benchmark if you consider publishing it.
+
+### Score
+
+The score of each benchmark is:
+
+* The time of execution
+* The number of plate that

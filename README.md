@@ -39,4 +39,4 @@ in the benchmark if you consider publishing it.
 The score of each benchmark is:
 
 * The time of execution
-* The number of plate that
+* The number of plate that contains all the parts

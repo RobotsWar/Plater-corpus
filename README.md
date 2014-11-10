@@ -18,6 +18,8 @@ Objects of this repository comes from real projects:
 * `spidey/` comes from the [Spidey robotics platform](https://github.com/RobotsWar/Spidey)
 * `um2-extruder/` is an [Ultimaker2 extruder upgrade](https://www.youmagine.com/designs/extruder-um2-version-2)
 
+Parts lists and quantities can be found in the trivial `plater.conf` format
+
 ## Benchmark conditions
 
 ### Plates size

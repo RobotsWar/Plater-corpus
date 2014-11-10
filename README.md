@@ -9,6 +9,7 @@ system.
 Objects of this repository comes from real projects:
 
 * `darwin_mini/` parts of the [DARWIN Mini humanoid robot](http://www.thingiverse.com/thing:323906)
+* `flex_mesh/` from the [FlexMesh 2.0 chainmail meshes](http://www.thingiverse.com/thing:442571)
 * `heart/` is an [heart gears](http://www.thingiverse.com/thing:249341)
 * `octopus`, an [octopus](http://www.thingiverse.com/thing:27053/), choosed because of its numerous facets
 * `prusa/` is a rework of the [Prusa i3 3D printer parts](http://www.thingiverse.com/thing:119616)
